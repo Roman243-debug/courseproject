@@ -1,0 +1,2 @@
+# Команда celery для запуска
+celery -A myshop worker -l info
